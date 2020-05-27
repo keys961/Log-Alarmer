@@ -1,0 +1,11 @@
+---
+log:
+  id: node1
+  path: ./application.yml
+email:
+  username: user@user.com
+  password: password
+  stmp: smtp.server.com
+  target: target@target.com
+  count_threshold: 20
+  time_threshold: 1000
